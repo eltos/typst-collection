@@ -41,7 +41,7 @@ different goals:
 ### Import the package
 
 ```typst
-#import "@preview/glossy:0.2.2": *
+#import "@preview/glossy:0.2.3": *
 ```
 
 ### Defining Glossary Terms
